@@ -45,7 +45,7 @@ Now you're all set! ðŸŽ‰ Enjoy Speech & Expression Recognition with Vault Boy! ð
 
 Clone the repository:
 ```bash
-git clone https://github.com/pSujalp/SpeechRecongnition.git
+clone
 
 cd SpeechRecongnition
 ```
